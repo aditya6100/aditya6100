@@ -4,7 +4,7 @@ I'm a passionate developer interested in various technologies.
 Welcome to my GitHub profile!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-patil6100" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://yourwebsite.com" target="_blank">
