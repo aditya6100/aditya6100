@@ -1,14 +1,16 @@
 # Hi there, I'm Aditya Patil 👋
 
-I'm a passionate developer interested in various technologies.  
+I'm a passionate developer exploring modern technologies and building real-world solutions.
+Currently pursuing my Bachelor of Engineering and working on projects in AR Indoor Navigation, MERN Stack, Android Development, and Web Technologies.
+
 Welcome to my GitHub profile!
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-patil6100" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+ 
   </a>
 </p>
 
